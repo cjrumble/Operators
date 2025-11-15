@@ -1,3 +1,7 @@
+/* ***************************************************************************
+This is a comment about the MAIN program.
+*************************************************************************** */
+
 package academy.learnprogramming;
 
 public class Main {
